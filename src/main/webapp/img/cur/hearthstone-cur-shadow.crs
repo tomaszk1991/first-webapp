@@ -1,0 +1,36 @@
+﻿[Arrow]
+Path=Hearthstone Hand.cur
+
+[SizeWE]
+Path=Hearthstone Arrow .cur
+
+[SizeNS]
+Path=Hearthstone Arrow 2.cur
+
+[AppStarting]
+Path=Hearthstone Working in Background.cur
+
+[Wait]
+Path=Hearthstone Busy.cur
+
+[SizeNWSE]
+Path=Hearthstone Arrow 3.cur
+
+[SizeNESW]
+Path=Hearthstone Arrow 4.cur
+
+[SizeAll]
+Path=Hearthstone Move.cur
+
+[Hand]
+Path=Hearthstone Link Select.cur
+
+[IBeam]
+Path=Hearthstone Hand Text.cur
+
+[UpArrow]
+Path=Hearthstone Eyes.ani
+
+[Help]
+Path=Hearthstone Hand Question.ani
+

@@ -1,0 +1,146 @@
+body {
+    background-color: #404040;
+    font-family: 'Lato', sans-serif;
+
+
+}
+
+#header {
+
+}
+
+.flag {
+    float: left;
+    width: 33%;
+    height: 125px;
+}
+
+a {
+
+}
+
+a:active {
+
+
+}
+
+a:hover {
+
+}
+
+a:visited {
+
+}
+
+
+.menu {
+    background-color: #303030;
+    margin-top: 20px;
+    color: #ffffff;
+    padding: 10px;
+
+}
+
+.option {
+    float: left;
+    min-width: 50px;
+    height: 25px;
+    font-size: 18px;
+    padding: 10px;
+    border-right: 2px dotted #444444;
+    opacity: 0.8;
+}
+
+.option:hover {
+    background-color: #000000;
+
+}
+
+button {
+    background-color: transparent;
+}
+
+.logo {
+    color: white;
+    margin-top: 20px;
+    font-size: 44px;
+    letter-spacing: 3px;
+    font-weight: 900;
+}
+
+.topbar {
+    background-color: #128870;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+
+
+}
+
+.square {
+
+
+    padding: 20px;
+    text-align: justify;
+    border-right: 2px dotted #cccccc;
+    font-size: 14px;
+    float: left;
+    height: 200px;
+
+}
+
+.bigtitle {
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+#footer {
+    clear: both;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+
+#container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dottedline {
+    height: 5px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-bottom: 2px dotted #444444;
+}
+
+.content {
+    float: left;
+    padding: 40px;
+    width: 920px;
+    background-color: #dedede;
+    min-height: 580px;
+    text-align: justify;
+}
+
+.cards {
+    background-color: gray;
+    color: white;
+    float: left;
+    border-bottom: 2px dotted white;
+    padding: 40px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a.menulink {
+    min-width: 50px;
+    height: 25px;
+    text-decoration: none;
+    display: block;
+    color: white;
+}
